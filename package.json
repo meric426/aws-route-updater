@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.devbox.com:martin/aws-route53-updater.git"
+    "url": "git@github.com:meric426/aws-route53-updater.git"
   },
   "author": "Martin Ericson <martin@devbox.com>",
   "license": "MIT",
