@@ -1,0 +1,20 @@
+{
+  "name": "aws-route53-updater",
+  "version": "1.0.0",
+  "description": "used to update my route 53 entries",
+  "main": "update.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.devbox.com:martin/aws-route53-updater.git"
+  },
+  "author": "Martin Ericson <martin@devbox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1.36",
+    "ipify": "^1.0.5",
+    "devbox-config": "git+ssh://git@gitlab.devbox.com:martin/devbox-config"
+  }
+}
